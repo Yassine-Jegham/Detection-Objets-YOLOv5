@@ -23,3 +23,9 @@ This Python script is based on YOLOv5, a real-time object detection model. It su
 ![Screenshot from 2023-08-28 21-30-26](https://github.com/Yassine-Jegham/Detection-Objets-YOLOv5/assets/116890996/da9c8aca-6ff7-4773-9e31-aa5c9dc97277)
 ![Screenshot from 2023-08-28 21-28-16](https://github.com/Yassine-Jegham/Detection-Objets-YOLOv5/assets/116890996/1593c466-eb1e-4341-88a6-8bddd0eb02cf)
 ![Screenshot from 2023-08-28 21-31-18](https://github.com/Yassine-Jegham/Detection-Objets-YOLOv5/assets/116890996/7c4a35f3-25b6-46c7-9a41-a344090127a7)
+
+# Next Step 
+*The implementation phase is where the YOLOv5 object detection model becomes a pivotal part of your real-time application, seamlessly processing and analyzing live data streams to swiftly and accurately recognize and locate objects, contributing to the application's core functionality.
+
+# Contact Me
+If you have any questions or feedback, please contact me at [yjegham@gmail.com]
